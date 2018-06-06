@@ -1,4 +1,4 @@
-# INSTALATION
+# TO INSTALL
 
 * Clone repo
 * open Chrome to chrome://extensions

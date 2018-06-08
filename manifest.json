@@ -2,8 +2,8 @@
     "manifest_version": 2,
 
     "name": "Pair Observation Form",
-    "description": "Reporting form for RPT HiR pairing observation",
-    "version": "1.0",
+    "description": "Reporting form for RPT  pairing observation",
+    "version": "1.3.3",
 
     "browser_action": {
         "default_icon": "icon.png",

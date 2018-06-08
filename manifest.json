@@ -3,7 +3,7 @@
 
     "name": "Pair Observation Form",
     "description": "Reporting form for RPT  pairing observation",
-    "version": "1.4.1",
+    "version": "1.4.2",
 
     "browser_action": {
         "default_icon": "icon.png",
